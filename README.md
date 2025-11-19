@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Java%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20Python;4%20years%20of%20experience;Building%20scalable%20applications&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Java%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20Python;4%20years%20experience&font=Fira%20Code&center=true&width=500&height=50&color=00d4ff&vCenter=true&pause=1000&size=20" />
   </a>
 </p>
 
