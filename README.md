@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/codercsharp"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/9vNsWKJ.png"/></a>
+  <a href="https://t.me/codercsharp"><img width="32px" alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=flat-square"/></a>
 </p>
 
 <br/>
